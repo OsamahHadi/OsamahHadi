@@ -1,4 +1,4 @@
-# Hi there, I'm Osama Hadi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there, I'm Osamah Hadi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MCA+Student+%7C+Developer;Tech+%26+Gaming+Enthusiast" alt="Typing SVG" />
