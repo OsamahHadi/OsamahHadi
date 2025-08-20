@@ -46,42 +46,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Featured Projects
 
-<div align="center">
-
-[![Nuwatech Online Store](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Nuwatech-Online-Store&theme=tokyonight)](https://github.com/YourUsername/Nuwatech-Online-Store)
-[![Gaming Console Repair](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=Gaming-Console-Repair&theme=tokyonight)](https://github.com/YourUsername/Gaming-Console-Repair)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/YourUsername">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="Streak Stats"/>
-</div>
-
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎮 Fun Zone
 
