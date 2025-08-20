@@ -9,29 +9,7 @@
   <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
-## 🚀 About Me
 
-```javascript
-const osama = {
-    pronouns: "He" | "Him",
-    code: ["C++", "Python", "JavaScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "gaming", "system design"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS"],
-            css: ["Bootstrap", "CSS3"]
-        },
-        backEnd: {
-            cpp: ["STL", "Data Structures"],
-            python: ["Core Python"],
-            databases: ["MySQL"]
-        },
-        tools: ["Git", "VS Code", "GitHub"]
-    },
-    currentFocus: "Building Nuwatech Online Store",
-    funFact: "I debug code faster when gaming music is playing! 🎮"
-};
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
