@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MCA+Student+%7C+Developer;Tech+%26+Gaming+Enthusiast;Building+Amazing+Projects" alt="Typing SVG" />
 </div>
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
 ## 🛠️ Tech Stack & Tools
