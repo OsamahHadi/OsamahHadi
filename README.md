@@ -2,7 +2,9 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=MCA+Student+%7C+Developer;Tech+%26+Gaming+Enthusiast;Building+Amazing+Projects" alt="Typing SVG" />
-
+</div>
+<div align="center">
+</div>
 
 ## 🛠️ Tech Stack & Tools
 
