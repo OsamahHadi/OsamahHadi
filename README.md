@@ -1,7 +1,7 @@
 # Hi there, I'm Osamah Hadi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=90&lines=Master+of+Computer+Applications++%7C;Developer+Tech+%26+Gaming+Enthusiast" alt="Typing SVG />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=90&lines=Master+of+Computer+Applications++%7C;Developer+Tech+%26+Gaming+Enthusiast" alt="Typing SVG />
 </div>
 
 
